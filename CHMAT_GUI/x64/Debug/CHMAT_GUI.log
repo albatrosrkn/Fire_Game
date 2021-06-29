@@ -1,0 +1,6 @@
+﻿  chmat.cpp
+C:\Users\Kullanıcı\Desktop\github\cem\Ödev_3\CHMAT_GUI\chmat.cpp(114,24): warning C4390: ';': boş denetlenen deyim bulundu; amaçlanan bu muydu?
+  CHMAT_GUI.cpp
+C:\Users\Kullanıcı\Desktop\github\cem\Ödev_3\CHMAT_GUI\CHMAT_GUI.cpp(78,12): warning C4244: 'return': 'WPARAM' - 'int' dönüşümü; veri kaybı olabilir
+  Kod Üretiliyor...
+  CHMAT_GUI.vcxproj -> C:\Users\Kullanıcı\Desktop\github\cem\Ödev_3\x64\Debug\CHMAT_GUI.exe
